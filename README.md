@@ -1,7 +1,7 @@
 <h1 align="center">Hesham Ebaid</h1>
 
 <p align="center">
-  AI/ML Engineer | Deep Learning Researcher | NLP & Computer Vision Developer | Embedded Systems Specialist
+  AI/ML Engineer | Researcher | NLP & Computer Vision Developer
 </p>
 
 <p align="center">
@@ -17,13 +17,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshamebaid&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
----
-
-## Contribution Overview
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=heshamebaid&theme=dark" alt="GitHub Streak" />
-</p>
 
 ---
 
