@@ -4,10 +4,6 @@ on:
   schedule:
     - cron: "0 6 * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - ".github/workflows/update-stats.yml"
 
 permissions:
   contents: write
@@ -46,6 +42,7 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
+          THEME: tokyonight
           AUTO_PUSH: false
 
       - name: Commit updated cards
@@ -53,12 +50,14 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p profile
-          if [ -d profile-summary-card-output/tokyonight ]; then
-            cp -f profile-summary-card-output/tokyonight/profile-details.svg profile/profile-details.svg || true
-            cp -f profile-summary-card-output/tokyonight/repos-per-language.svg profile/repos-per-language.svg || true
-            cp -f profile-summary-card-output/tokyonight/most-commit-language.svg profile/most-commit-language.svg || true
+          THEME_DIR="profile-summary-card-output/tokyonight"
+          if [ -d "$THEME_DIR" ]; then
+            cp -f "$THEME_DIR/0-profile-details.svg" profile/profile-details.svg || true
+            cp -f "$THEME_DIR/1-repos-per-language.svg" profile/repos-per-language.svg || true
+            cp -f "$THEME_DIR/2-most-commit-language.svg" profile/most-commit-language.svg || true
           fi
           git add profile/*.svg
           git diff --staged --quiet && echo "No stats changes" && exit 0
           git commit -m "chore: refresh GitHub profile stats"
+          git pull --rebase origin main
           git push
