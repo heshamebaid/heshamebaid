@@ -21,7 +21,7 @@ I am an **AI/ML Engineer, researcher, and Teaching Assistant** working across **
 
 I enjoy building end-to-end solutions that move beyond experimentation into practical, reliable systems. My work spans machine learning research, computer vision pipelines, real-time AI, signal processing, and applied software engineering.
 
-Alongside my engineering and research work, I work as a **Teaching Assistant**, helping students build strong foundations in programming, mathematics, embedded systems, and operating systems.
+Alongside my engineering and research work, I work as a **Teaching Assistant at E-JUST**, where I support undergraduate students in programming, mathematics, embedded systems, and operating systems.
 
 **Current focus:**  
 AI/ML · Computer Vision · NLP · Deep Learning · Real-Time AI · Research & Education
@@ -32,17 +32,17 @@ AI/ML · Computer Vision · NLP · Deep Learning · Real-Time AI · Research & E
 
 ### AI/ML Engineer
 
-Working on real-world AI systems, with a focus on:
+Building and deploying real-world AI systems with a focus on:
 
 - Computer vision and object detection
 - Real-time inference and video analytics
 - Deep learning model development and optimization
-- End-to-end ML pipelines
+- End-to-end machine learning pipelines
 - Production-oriented AI systems
 
-### Teaching Assistant
+### Teaching Assistant — E-JUST
 
-Supporting undergraduate students in technical and engineering courses, including:
+Supporting undergraduate students across technical and engineering courses, including:
 
 - Programming
 - Advanced Mathematics with Software Applications
@@ -50,7 +50,7 @@ Supporting undergraduate students in technical and engineering courses, includin
 - Operating Systems
 - xv6 and systems programming
 
-I enjoy teaching because it allows me to combine my engineering background with my interest in research and education.
+I enjoy teaching because it allows me to combine engineering, research, and education while helping students develop strong technical foundations.
 
 ---
 
@@ -90,7 +90,7 @@ I enjoy teaching because it allows me to combine my engineering background with 
 
 ## Research Interests
 
-My research interests sit at the intersection of **AI, perception, and intelligent systems**.
+My research interests sit at the intersection of **AI, perception, signal processing, and intelligent systems**.
 
 - **Computer Vision** — object detection, segmentation, visual understanding, and real-time inference
 - **Medical AI** — deep learning for diagnostic imaging and biomedical signal processing
@@ -100,29 +100,15 @@ My research interests sit at the intersection of **AI, perception, and intellige
 
 ---
 
-## Featured Areas
-
-<div align="center">
-
-| 🧠 AI & ML | 👁️ Computer Vision | 🔬 Research | 🎓 Teaching |
-|:---:|:---:|:---:|:---:|
-| Deep Learning | Object Detection | Medical AI | Programming |
-| NLP | Real-Time AI | Signal Processing | Embedded Systems |
-| Transformers | Video Analytics | Applied ML | Operating Systems |
-
-</div>
-
----
-
 ## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=heshamebaid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
+<img src="./profile/stats.svg" height="165" alt="GitHub Stats" />
 
 &nbsp;&nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshamebaid&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="Top Languages" />
+<img src="./profile/top-langs.svg" height="165" alt="Top Languages" />
 
 </div>
 
@@ -166,9 +152,21 @@ My research interests sit at the intersection of **AI, perception, and intellige
 
 ---
 
+## Current Interests
+
+- Building reliable and scalable AI systems
+- Computer vision for real-world applications
+- Multimodal and vision-language models
+- Medical AI and biomedical signal processing
+- Arabic NLP and language technologies
+- AI research and graduate studies
+- Teaching and technical education
+
+---
+
 ## Let's Connect
 
-I'm interested in **AI/ML research, computer vision, NLP, intelligent systems, and opportunities to collaborate on meaningful technical projects**.
+I'm always interested in **AI/ML research, computer vision, NLP, intelligent systems, and meaningful technical collaborations**.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hesham-ebaid-67a55718/) or explore my work here on GitHub.
 
