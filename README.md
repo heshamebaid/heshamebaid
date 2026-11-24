@@ -2,45 +2,76 @@
 
 # Hesham Ebaid
 
-**AI/ML Engineer · Researcher · NLP & Computer Vision**
+**AI/ML Engineer · Researcher · Teaching Assistant**
 
-*Building intelligent systems at the intersection of deep learning, signal processing, and real-world AI applications.*
+*Building intelligent systems with deep learning, computer vision, NLP, and real-world AI.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hesham-ebaid-67a55718a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:heshamebaid224@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/heshamebaid)
 [![Profile Views](https://komarev.com/ghpvc/?username=heshamebaid&label=Profile%20Views&color=6e40c9&style=flat-square)](https://github.com/heshamebaid)
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I am an AI/ML Engineer and researcher with a background spanning deep learning, natural language processing, and computer vision. My focus is on designing end-to-end machine learning pipelines that solve real problems — from medical AI diagnostics to intelligent automation systems.
+I am an **AI/ML Engineer, researcher, and Teaching Assistant** working across **deep learning, computer vision, natural language processing, and intelligent systems**.
 
-I approach engineering with a systems mindset: reliable architecture, reproducible experiments, and technology aligned with purpose.
+I enjoy building end-to-end solutions that move beyond experimentation into practical, reliable systems. My work spans machine learning research, computer vision pipelines, real-time AI, signal processing, and applied software engineering.
+
+Alongside my engineering and research work, I work as a **Teaching Assistant**, helping students build strong foundations in programming, mathematics, embedded systems, and operating systems.
+
+**Current focus:**  
+AI/ML · Computer Vision · NLP · Deep Learning · Real-Time AI · Research & Education
+
+---
+
+## Experience
+
+### AI/ML Engineer
+
+Working on real-world AI systems, with a focus on:
+
+- Computer vision and object detection
+- Real-time inference and video analytics
+- Deep learning model development and optimization
+- End-to-end ML pipelines
+- Production-oriented AI systems
+
+### Teaching Assistant
+
+Supporting undergraduate students in technical and engineering courses, including:
+
+- Programming
+- Advanced Mathematics with Software Applications
+- Advanced Embedded Systems
+- Operating Systems
+- xv6 and systems programming
+
+I enjoy teaching because it allows me to combine my engineering background with my interest in research and education.
 
 ---
 
 ## Technical Stack
 
-**Languages**
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,sql" />
 </p>
 
-**AI & Machine Learning**
+### AI · Machine Learning · Computer Vision
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras" />
-  &nbsp;
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 </p>
 
-**Web & API Development**
+### Web · APIs · Software Engineering
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -49,11 +80,37 @@ I approach engineering with a systems mindset: reliable architecture, reproducib
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
 </p>
 
-**DevOps & Tools**
+### DevOps · Systems · Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
+
+---
+
+## Research Interests
+
+My research interests sit at the intersection of **AI, perception, and intelligent systems**.
+
+- **Computer Vision** — object detection, segmentation, visual understanding, and real-time inference
+- **Medical AI** — deep learning for diagnostic imaging and biomedical signal processing
+- **Natural Language Processing** — transformers, information extraction, and Arabic NLP
+- **Deep Learning** — representation learning, generative models, and model optimization
+- **Intelligent Systems** — applying AI to real-world engineering and automation problems
+
+---
+
+## Featured Areas
+
+<div align="center">
+
+| 🧠 AI & ML | 👁️ Computer Vision | 🔬 Research | 🎓 Teaching |
+|:---:|:---:|:---:|:---:|
+| Deep Learning | Object Detection | Medical AI | Programming |
+| NLP | Real-Time AI | Signal Processing | Embedded Systems |
+| Transformers | Video Analytics | Applied ML | Operating Systems |
+
+</div>
 
 ---
 
@@ -62,16 +119,22 @@ I approach engineering with a systems mindset: reliable architecture, reproducib
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=heshamebaid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
+
 &nbsp;&nbsp;
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshamebaid&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="Top Languages" />
 
 </div>
+
+<br>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=heshamebaid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -81,7 +144,7 @@ I approach engineering with a systems mindset: reliable architecture, reproducib
 
 ---
 
-## Metrics
+## GitHub Metrics
 
 <div align="center">
 
@@ -89,23 +152,25 @@ I approach engineering with a systems mindset: reliable architecture, reproducib
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heshamebaid&theme=tokyonight" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heshamebaid&theme=tokyonight" alt="Repositories Per Language" />
+
 &nbsp;
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heshamebaid&theme=tokyonight" alt="Most Commit Language" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heshamebaid&theme=tokyonight&utcOffset=2" alt="Productive Time" />
 
 </div>
 
 ---
 
-## Research Interests
+## Let's Connect
 
-- **Medical AI** — applying deep learning to diagnostic imaging and clinical signal processing  
-- **Natural Language Processing** — transformers, information extraction, and Arabic NLP  
-- **Computer Vision** — object detection, segmentation, and real-time inference  
+I'm interested in **AI/ML research, computer vision, NLP, intelligent systems, and opportunities to collaborate on meaningful technical projects**.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hesham-ebaid-67a55718/) or explore my work here on GitHub.
 
 ---
 
@@ -113,10 +178,6 @@ I approach engineering with a systems mindset: reliable architecture, reproducib
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 
-</div>
-
-<div align="center">
-
-*"Build reliable systems, extract meaningful insights, and always align technology with purpose."*
+### *Build reliable systems. Solve meaningful problems. Keep learning.*
 
 </div>
