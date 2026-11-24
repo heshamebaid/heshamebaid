@@ -112,15 +112,13 @@ Supporting undergraduate courses:
 
 ## GitHub Statistics
 
+<!-- Cards are regenerated daily by .github/workflows/update-stats.yml -->
+
 <div align="center">
 
-<a href="https://github.com/heshamebaid">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=heshamebaid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
-</a>
+<img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
 &nbsp;
-<a href="https://github.com/heshamebaid">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshamebaid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-</a>
+<img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
 
 <br/><br/>
 
@@ -132,13 +130,13 @@ Supporting undergraduate courses:
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heshamebaid&theme=tokyonight" alt="Profile Summary" />
+<img src="./profile/profile-details.svg" alt="Profile Summary" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heshamebaid&theme=tokyonight" alt="Repos Per Language" />
+<img src="./profile/repos-per-language.svg" alt="Repos Per Language" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heshamebaid&theme=tokyonight" alt="Most Commit Language" />
+<img src="./profile/most-commit-language.svg" alt="Most Commit Language" />
 
 </div>
 
