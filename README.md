@@ -1,15 +1,17 @@
 <div align="center">
 
-# Hesham Ebaid
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=180&section=header&text=Hesham%20Ebaid&fontSize=52&fontColor=F8FAFC&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Researcher%20%C2%B7%20Teaching%20Assistant&descAlignY=55&descSize=16&animation=fadeIn" width="100%" alt="Header" />
 
-**AI/ML Engineer · Researcher · Teaching Assistant**
+<br/>
 
-*Building intelligent systems with deep learning, computer vision, NLP, and real-world AI.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+intelligent+systems;Deep+Learning+%C2%B7+Computer+Vision+%C2%B7+NLP;Research+%26+Real-World+AI" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hesham-ebaid-67a55718a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:heshamebaid224@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/heshamebaid)
-[![Profile Views](https://komarev.com/ghpvc/?username=heshamebaid&label=Profile%20Views&color=6e40c9&style=flat-square)](https://github.com/heshamebaid)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hesham-ebaid-67a55718a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heshamebaid224@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heshamebaid)
+[![Profile Views](https://komarev.com/ghpvc/?username=heshamebaid&label=Profile%20Views&color=0ea5e9&style=for-the-badge)](https://github.com/heshamebaid)
 
 </div>
 
@@ -17,86 +19,92 @@
 
 ## About Me
 
-I am an **AI/ML Engineer, researcher, and Teaching Assistant** working across **deep learning, computer vision, natural language processing, and intelligent systems**.
+I'm an **AI/ML Engineer, researcher, and Teaching Assistant** focused on **deep learning, computer vision, NLP, and intelligent systems**.
 
-I enjoy building end-to-end solutions that move beyond experimentation into practical, reliable systems. My work spans machine learning research, computer vision pipelines, real-time AI, signal processing, and applied software engineering.
+I build end-to-end solutions that move beyond experimentation into practical, reliable systems — spanning ML research, vision pipelines, real-time AI, signal processing, and applied software engineering.
 
-Alongside my engineering and research work, I work as a **Teaching Assistant at E-JUST**, where I support undergraduate students in programming, mathematics, embedded systems, and operating systems.
+I also teach at **E-JUST**, supporting undergraduates in programming, mathematics, embedded systems, and operating systems.
 
-**Current focus:**  
-AI/ML · Computer Vision · NLP · Deep Learning · Real-Time AI · Research & Education
+```text
+🎯 Current focus  →  AI/ML · Computer Vision · NLP · Deep Learning · Real-Time AI
+🏫 Affiliation    →  Teaching Assistant @ E-JUST
+📍 Open to        →  Research · Collaboration · Graduate studies
+```
 
 ---
 
 ## Experience
 
-### AI/ML Engineer
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Building and deploying real-world AI systems with a focus on:
+### 🤖 AI/ML Engineer
 
-- Computer vision and object detection
-- Real-time inference and video analytics
-- Deep learning model development and optimization
-- End-to-end machine learning pipelines
+Building and deploying real-world AI systems:
+
+- Computer vision & object detection
+- Real-time inference & video analytics
+- Deep learning model development
+- End-to-end ML pipelines
 - Production-oriented AI systems
 
-### Teaching Assistant — E-JUST
+</td>
+<td width="50%" valign="top">
 
-Supporting undergraduate students across technical and engineering courses, including:
+### 🎓 Teaching Assistant — E-JUST
+
+Supporting undergraduate courses:
 
 - Programming
-- Advanced Mathematics with Software Applications
+- Advanced Mathematics
 - Advanced Embedded Systems
 - Operating Systems
-- xv6 and systems programming
+- xv6 & systems programming
 
-I enjoy teaching because it allows me to combine engineering, research, and education while helping students develop strong technical foundations.
+</td>
+</tr>
+</table>
 
 ---
 
 ## Technical Stack
 
-### Programming Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,sql" />
-</p>
+**Languages**
 
-### AI · Machine Learning · Computer Vision
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,sql&theme=dark" alt="Languages" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-</p>
+<br/><br/>
 
-### Web · APIs · Software Engineering
+**AI · ML · Computer Vision**
 
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras&theme=dark" alt="AI Stack" />
+&nbsp;
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 
-### DevOps · Systems · Tools
+<br/><br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-</p>
+**Web · APIs · Tools**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,html,tailwind,git,github,docker,linux,vscode&theme=dark" alt="Tools" />
+
+</div>
 
 ---
 
 ## Research Interests
 
-My research interests sit at the intersection of **AI, perception, signal processing, and intelligent systems**.
-
-- **Computer Vision** — object detection, segmentation, visual understanding, and real-time inference
-- **Medical AI** — deep learning for diagnostic imaging and biomedical signal processing
-- **Natural Language Processing** — transformers, information extraction, and Arabic NLP
-- **Deep Learning** — representation learning, generative models, and model optimization
-- **Intelligent Systems** — applying AI to real-world engineering and automation problems
+| Area | Focus |
+|:-----|:------|
+| **Computer Vision** | Object detection, segmentation, visual understanding, real-time inference |
+| **Medical AI** | Diagnostic imaging & biomedical signal processing |
+| **NLP** | Transformers, information extraction, Arabic NLP |
+| **Deep Learning** | Representation learning, generative models, optimization |
+| **Intelligent Systems** | AI for engineering & automation problems |
 
 ---
 
@@ -104,77 +112,59 @@ My research interests sit at the intersection of **AI, perception, signal proces
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="165" alt="GitHub Stats" />
+<a href="https://github.com/heshamebaid">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=heshamebaid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+</a>
+&nbsp;
+<a href="https://github.com/heshamebaid">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshamebaid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+</a>
 
-&nbsp;&nbsp;
+<br/><br/>
 
-<img src="./profile/top-langs.svg" height="165" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=heshamebaid&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 
-</div>
+<br/><br/>
 
-<br>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=heshamebaid&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=7DD3FC" alt="Contribution Graph" />
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=heshamebaid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heshamebaid&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-## GitHub Metrics
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heshamebaid&theme=tokyonight" alt="Profile Summary" />
 
-</div>
+<br/>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heshamebaid&theme=tokyonight" alt="Repositories Per Language" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heshamebaid&theme=tokyonight" alt="Repos Per Language" />
 &nbsp;
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heshamebaid&theme=tokyonight" alt="Most Commit Language" />
 
 </div>
 
 ---
 
-## Current Interests
+## Currently Exploring
 
-- Building reliable and scalable AI systems
-- Computer vision for real-world applications
-- Multimodal and vision-language models
-- Medical AI and biomedical signal processing
-- Arabic NLP and language technologies
-- AI research and graduate studies
-- Teaching and technical education
+- Reliable, scalable AI systems for production
+- Computer vision in real-world environments
+- Multimodal & vision-language models
+- Medical AI & biomedical signal processing
+- Arabic NLP & language technologies
+- AI research & graduate studies
 
 ---
 
 ## Let's Connect
 
-I'm always interested in **AI/ML research, computer vision, NLP, intelligent systems, and meaningful technical collaborations**.
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hesham-ebaid-67a55718/) or explore my work here on GitHub.
-
----
+I'm open to **AI/ML research, computer vision, NLP, intelligent systems, and technical collaborations**.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hesham-ebaid-67a55718a/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heshamebaid224@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E3A5F,100:0F172A&height=100&section=footer&animation=twinkling" width="100%" alt="Footer" />
 
 ### *Build reliable systems. Solve meaningful problems. Keep learning.*
 
